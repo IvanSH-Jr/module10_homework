@@ -1,0 +1,21 @@
+.container{
+    max-width: 768px;
+    margin: 0 auto;
+    border: thick double #32a1ce;
+}
+
+.container-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-text-area{
+    margin: 40px 0  40px;
+    
+}
+
+.text-area{
+    border: dashed rgb(0, 26, 255);
+    display: inline-flex;
+    flex-direction: column;
+}
